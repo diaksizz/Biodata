@@ -1,0 +1,9 @@
+#biodata h2 {
+    font-family: verdana !important;
+}
+
+#biodata {
+    background-image: linear-gradient(to top, #0081cf, #00a3db, #4cc3df, #89e1e4, #c4fcef);
+    /* background: #2C73D2; */
+    padding: 15px 0;
+}
