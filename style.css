@@ -1,9 +1,28 @@
+.biodata hr {
+    width: 250px;
+    border-top: 3px solid #000;
+}
+
+
+.portofolio card-body {
+    width: 100px
+}
+
+body {
+    padding-top: 25px;
+    padding-bottom: 30px;
+    background-image: linear-gradient(to left, #d2e6ee, #c9dee6, #bfd5de, #b6cdd7, #adc5cf);
+}
+
+
+
+
 #biodata h2 {
     font-family: verdana !important;
 }
 
-#biodata {
+/* #biodata {
     background-image: linear-gradient(to top, #0081cf, #00a3db, #4cc3df, #89e1e4, #c4fcef);
     /* background: #2C73D2; */
-    padding: 15px 0;
-}
+/* padding: 15px 0;
+} */
